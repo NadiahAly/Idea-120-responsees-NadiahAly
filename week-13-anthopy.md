@@ -1,4 +1,4 @@
-THREE QUESTIONS 
+<p>THREE QUESTIONS </p>
 Would a game like super smash bros be different without the sound effects and music playing? How would silence affect the aspect of a game?
 
 Games are usually seen as a fun form of entertainment, but they do not necessarily have to be fun. To what extent can the gaming world change political views or policies in the near future?
@@ -10,7 +10,7 @@ Can gaming tools be used to expand the ability of appliances in the house?
 
 
 
-
+-------------------------------------------------------------------------------------------
 <p>Games are usually seen as a fun form of entertainment, but they do not necessarily have to be fun. To what extent can the gaming world change political views or policies in the near future?</p>
 
 <p>The relationship between art and politics is intertwined. Many forms of art such as graffiti, murals, and music forms have been used to create a statement in moments of political uprisings. In turn, this could allow the public to reinterpret differnt social structures in society. This form of art activism has arisen in many different forms. For example, Environmental artists use a material that individuals usually refer to as “trash” and create something beautiful out of it. These activists seek ways in which to warn people about certain situations but also provide solutions. With this in mind, the question that I thought of was, To what extent can the gaming world change political views or policies in the near future? With art activists on the rise with their creativity and allowing the public to view a different side of a political moment, could games do the same?</p>
