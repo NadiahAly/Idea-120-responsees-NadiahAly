@@ -1,6 +1,7 @@
 <p>THREE QUESTIONS </p>
 Would a game like super smash bros be different without the sound effects and music playing? How would silence affect the aspect of a game?
 
+
 Games are usually seen as a fun form of entertainment, but they do not necessarily have to be fun. To what extent can the gaming world change political views or policies in the near future?
 
 Can gaming tools be used to expand the ability of appliances in the house?
